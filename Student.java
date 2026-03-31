@@ -52,5 +52,4 @@ public class Student {
         }
         return exams;
     }
-
 }
